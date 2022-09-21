@@ -1,5 +1,5 @@
 # Portfolio-Moblie-Version
-Building mobile version of personal website.
+Building mobile version of personal website and for the first milestone in the process of creating my portfolio website.
 
 
 
