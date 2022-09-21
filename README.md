@@ -14,7 +14,7 @@ Building mobile version of personal website.
 
 ## Get Started
 
-- git clone https://github.com/Emmanuel130/Portfolio-Moblie-Skeleton-Version
+- git clone https://github.com/Emmanuel130/Portfolio-Moblie-Version
 - cd Portifolio-Moblie-Version
 - Open index.html
 
